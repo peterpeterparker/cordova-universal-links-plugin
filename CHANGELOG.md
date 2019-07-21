@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.2 (2019-07-21)
+
+- Fix compatibility with Cordova >= v9 as display by [rozhnev](https://github.com/rozhnev) in [cordova-universal-links-plugin/issues/146](https://github.com/nordnet/cordova-universal-links-plugin/issues/146#issuecomment-382841303)
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
