@@ -10,8 +10,8 @@
   <license>MIT</license>
   <keywords>cordova,links,universal</keywords>
 
-  <repo>https://github.com/nordnet/cordova-universal-links-plugin</repo>
-  <issue>https://github.com/nordnet/cordova-universal-links-plugin/issues</issue>
+  <repo>https://github.com/peterpeterparker/cordova-universal-links-plugin</repo>
+  <issue>https://github.com/peterpeterparker/cordova-universal-links-plugin/issues</issue>
 
   <engines>
     <engine name="cordova-ios" version=">=3.8"></engine>
