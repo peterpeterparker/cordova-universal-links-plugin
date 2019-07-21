@@ -2,7 +2,8 @@
 
 ## 1.2.2 (2019-07-21)
 
-- Fix compatibility with Cordova >= v9 as display by [rozhnev](https://github.com/rozhnev) in [cordova-universal-links-plugin/issues/146](https://github.com/nordnet/cordova-universal-links-plugin/issues/146#issuecomment-382841303)
+- **Android:** Fix compatibility error with Cordova >= v9 as displayed by [rozhnev](https://github.com/rozhnev) in [cordova-universal-links-plugin/issues/146](https://github.com/nordnet/cordova-universal-links-plugin/issues/146#issuecomment-382841303)
+- **iOS:** Fix compatibility error with Cordova >= v7 as displayed by [aecvargas](https://github.com/aecvargas) in [cordova-universal-links-plugin/issues/131](https://github.com/nordnet/cordova-universal-links-plugin/issues/131#issuecomment-387761895)
 
 ## 1.2.1 (2016-10-23)
 
